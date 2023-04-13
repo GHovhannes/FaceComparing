@@ -1,5 +1,6 @@
 package com.example.comparing;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Intent;
 import android.content.res.AssetFileDescriptor;
